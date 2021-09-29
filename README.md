@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Spike713
-- 👀 I’m interested in Python and Comic
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Games and Comic
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me: chenjianhang0713@outlook.com
 
